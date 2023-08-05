@@ -10,12 +10,12 @@ The heart and soul of this project lie in the dataset, which holds a treasure tr
 To unleash the full potential of this dataset, I've crafted a set of thought-provoking questions. These queries will act as your compass, guiding you on your data exploration journey. Brace yourself for some mind-bending SQL wizardry as you answer questions like:
 
 1. Write query to return the email, first name, last name, & Genre of all Rock Music listeners.
-Return your list ordered alphabe5cally by email starting with A
+Return your list ordered alphabetically by email starting with A
 
 2.Which genres are the most popular among the customers of each country
 
-3. Let's invite the ar5sts who have wriTen the most rock music in our dataset. Write a query
-that returns the Ar5st name and total track count of the top 10 rock bands.
+3. Let's invite the artists who have written the most rock music in our dataset. Write a query
+that returns the Artist name and total track count of the top 10 rock bands.
 
 ## 🔍 In-Depth Analysis
 Each question will lead you to a unique facet of the music store's operations. As you craft your SQL queries and interpret the results, you'll gain valuable insights into customer preferences, market demand, and growth opportunities. Unraveling the mysteries hidden within the data, you'll become a data virtuoso!
